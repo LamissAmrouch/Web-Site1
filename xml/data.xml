@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<title></title>
+<header>
+    <home>
+        <en>Home</en>
+        <fr>Accueil</fr>
+        <ar>الصفحة الرئيسية</ar>
+    </home>
+
+    <about>
+        <en>About</en>
+        <fr>A propos</fr>
+        <ar>حول الشركة</ar>
+    </about>
+
+    <services>
+        <en>Services</en>
+        <fr>Services</fr>
+        <ar>الخدمات</ar>
+    </services>
+
+    <products>
+        <en>Products</en>
+        <fr>Produits</fr>
+        <ar>المنتجات</ar>
+    </products>
+
+    <team>
+        <en>Team</en>
+        <fr>Equipe</fr>
+        <ar>الفريق</ar>
+    </team>
+    
+    <gallery>
+        <en>Gallery</en>
+        <fr>Gallerie</fr>
+        <ar>معرض الصور</ar>
+    </gallery>
+
+    <contact>
+        <en>Contact Us</en>
+        <fr>Contact</fr>
+        <ar>اتصال</ar> 
+    </contact>
+</header>
+<map>
+        <en>Find us</en>
+        <fr>Ou nous trouver ?</fr>
+        <ar>تجدونا في</ar>
+</map>
+<contact>
+    <description>
+            <en>Make a Call or submit our online form to order a product or for general questions.
+    We look forward to answer your request !</en>
+            <fr>Passez un appel ou soumettez notre formulaire en ligne pour passer une commande ou pour تجدونا فيdes questions d'ordre générales.
+    Nous nous réjouissons de répondre à votre demande!</fr>
+            <ar>قم بإجراء مكالمة أو بإرسال الإستمارة الإلكترونية لتقديم طلب أو للأسئلة العامة.
+    ونحن نتطلع إلى الاستجابة لطلبك!</ar>
+    </description>
+
+    <about>
+        <en>About</en>
+        <fr>A propos</fr>
+        <ar>حول الشركة</ar>
+    </about>
+
+    <services>
+        <en>Services</en>
+        <fr>Services</fr>
+        <ar>الخدمات</ar>
+    </services>
+
+    <products>
+        <en>Products</en>
+        <fr>Produits</fr>
+        <ar>المنتجات</ar>
+    </products>
+
+    <team>
+        <en>Team</en>
+        <fr>Equipe</fr>
+        <ar>الفريق</ar>
+    </team>
+    
+    <gallery>
+        <en>Gallery</en>
+        <fr>Gallerie</fr>
+        <ar>معرض الصور</ar>
+    </gallery>
+
+    <contact>
+        <en>Contact Us</en>
+        <fr>Contact</fr>
+        <ar>اتصال</ar> 
+    </contact>
+</contact>
+<products></products>
+<services></services>
+<gallery></gallery>
+<partners></partners>
+</root>

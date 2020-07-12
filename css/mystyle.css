@@ -1,0 +1,33 @@
+.sub-header-div{
+    margin: 0 auto;
+}
+.inner-banner {
+    text-align: center;
+    background: url(/BZ-Algeria/img/banner.jpg) no-repeat center;
+    background-size: cover;
+    background-position:center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 300px;
+  }
+.sub-header {
+    width: 100%;
+    border: none;
+    background: #ffb100;
+    text-align: center;
+    height: 60px;
+}
+ul.sub-header li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+ul.sub-header li {
+    list-style: none;
+    padding: 20px 0px;
+    display: inline-block;
+    letter-spacing: 1px;
+    font-size: 14px;
+    color: #000000;
+  }

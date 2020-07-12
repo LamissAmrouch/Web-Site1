@@ -1,0 +1,9 @@
+{ 
+    "home": "Accueil", 
+    "about": "A propos",
+    "services": "Services",
+    "products" : "Produits",
+    "team": "Equipe",
+    "partners": "Partenaires",
+    "gallery" : "Gallerie"
+}
